@@ -20,9 +20,9 @@ export default function Footer() {
               <div>
                 <h3 className="text-lg font-serif text-text mb-2">Location</h3>
                 <p className="text-text/70 font-sans">
-                  123 Luxury Avenue
+                  109 E Crystal Lake Ave Ste 109
                   <br />
-                  New York, NY 10001
+                  Lake Mary, FL 32746-3251
                 </p>
               </div>
             </div>
@@ -40,8 +40,9 @@ export default function Footer() {
               <div>
                 <h3 className="text-lg font-serif text-text mb-2">Hours</h3>
                 <div className="text-text/70 font-sans space-y-1">
-                  <p>Mon - Fri: 9:00 AM - 7:00 PM</p>
-                  <p>Sat: 10:00 AM - 6:00 PM</p>
+                  <p>Tue - Fri: 9:00 AM - 5:00 PM</p>
+                  <p>Mon: Closed</p>
+                  <p>Sat: Closed</p>
                   <p>Sun: Closed</p>
                 </div>
               </div>
